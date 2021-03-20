@@ -10,7 +10,7 @@ Clone files
 - Would also like to different pacmen images that change color when hit the walls. 
 
 ##repo
-<a href="pmab.html">Visit W3Schools</a>
+<a href="pman.html">repo</a>
 
 MIT License
 
