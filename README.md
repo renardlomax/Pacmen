@@ -1,6 +1,6 @@
 # Pacmen Excersise
-This was my first MIT coding project of the class. I was given the task of creating the pacman image to bounce along the webpage without going off the screeen. I was able to create a functional tab to to start the game and add additional pacmen. 
-## How to Run
+This was my first MIT coding project from Mit edx pro coding bootcamp. I created a pacman game where i implemented functional code  I was given the task of creating the pacman image to bounce along the webpage without going off the screeen. I was able to create a functional tab to to start the game and add additional pacmen. 
+## How to get started
 Clone files
 - Index.html
 - The pacmen images
@@ -9,7 +9,8 @@ Clone files
 - I plan on making more than one image that moves in the game.
 - Would also like to different pacmen images that change color when hit the walls. 
 
-
+##repo
+<a href="pmab.html">Visit W3Schools</a>
 
 MIT License
 
