@@ -10,12 +10,12 @@ Clone files
 - Would also like to different pacmen images that change color when hit the walls. 
 
 # Live repo
-<a href="http://127.0.0.1:5500/pman.html">Pacman game</a>
+-<a href="http://127.0.0.1:5500/pman.html">Pacman game</a>
 
 
 
 #
-#
+
 MIT License
 
 Copyright (c) 2021 Renard Lomax
