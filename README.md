@@ -10,7 +10,7 @@ Clone files
 - Would also like to different pacmen images that change color when hit the walls. 
 
 ##.repo
-<a href="index.html">Pacman game</a>
+<a href="file:///C:/Users/renar/Desktop/renardlomax.github.io/website/eyes.html">Pacman game</a>
 
 MIT License
 
