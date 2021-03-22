@@ -9,7 +9,7 @@ Clone files
 - I plan on making more than one image that moves in the game.
 - Would also like to different pacmen images that change color when hit the walls. 
 
-# Live repo
+# Demo
 - <a href="http://127.0.0.1:5500/pman.html">Pacman game</a>
 
 
