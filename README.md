@@ -1,5 +1,5 @@
 # Pacmen Exercise
-This was my first MIT coding project from MIT xPro coding bootcamp. I created a pacman game where I implemented functional code. I was given the task of making pacman bounce along the webpage without going off the screeen. I was able to create a functional tab to start the game and add additional pacmen. 
+This was my first MIT coding project from MIT xPro coding bootcamp. I created a pacman game where I implemented functional code. I was given the task of making pacman bounce along the webpage without going off the screen. I was able to create a functional tab to start the game and add additional pacmen. 
 ## How To Run
 Clone/Download The Following Files:
 #
