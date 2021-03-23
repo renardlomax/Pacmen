@@ -2,10 +2,11 @@
 This was my first MIT coding project from MIT xPro coding bootcamp. I created a pacman game where I implemented functional code. I was given the task of making pacman bounce along the webpage without going off the screen. I was able to create a functional tab to start the game and add additional pacmen. 
 ## How To Run
 Clone/Download The Following Files:
-#
+
 - index.html
 - The images folder
 - pacmen.js
+
 Once the files are downloaded, drag the index.html file onto your browser window. Click "Start Game" and then click "Add PacMan" to add as many pacmen to the webpage as you would like. You should see the pacmen moving around the screen at various speeds. You can click "Remove Pacman" to reduce the number of pacmen on screen. 
 ## Future Improvements
 - I plan on using additional images, such as Mrs. Pacman, that move in the game.
