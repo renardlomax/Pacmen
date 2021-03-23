@@ -1,7 +1,8 @@
 # Pacmen Exercise
 This was my first MIT coding project from Mit edx pro coding bootcamp. I created a pacman game where i implemented functional code  I was given the task of creating the pacman image to bounce along the webpage without going off the screeen. I was able to create a functional tab to to start the game and add additional pacmen. 
 ## How to get started
-Clone files
+Clone/Download Files
+#
 - Index.html
 - The pacmen images
 - The pacmen.js
