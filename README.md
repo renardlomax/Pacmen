@@ -1,19 +1,18 @@
 # Pacmen Exercise
-This was my first MIT coding project from Mit edx pro coding bootcamp. I created a pacman game where i implemented functional code. I was given the task of creating the pacman image to bounce along the webpage without going off the screeen. I was able to create a functional tab to to start the game and add additional pacmen. 
-## How to get started
-Clone/Download Files
+This was my first MIT coding project from MIT xPro coding bootcamp. I created a pacman game where I implemented functional code. I was given the task of making pacman bounce along the webpage without going off the screeen. I was able to create a functional tab to start the game and add additional pacmen. 
+## How To Run
+Clone/Download The Following Files:
 #
-- Index.html
-- The pacmen images
-- The pacmen.js
-## What I plan on improving
-- I plan on making more than one image that moves in the game.
-- Would also like to different pacmen images that change color when hit the walls. 
+- index.html
+- The images folder
+- pacmen.js
+Once the files are downloaded, drag the index.html file onto your browser window. Click "Start Game" and then click "Add PacMan" to add as many pacmen to the webpage as you would like. You should see the pacmen moving around the screen at various speeds. You can click "Remove Pacman" to reduce the number of pacmen on screen. 
+## Future Improvements
+- I plan on using additional images, such as Mrs. Pacman, that move in the game.
+- I would also like to use different pacman images that change color when they hit the walls. 
 
 # Demo
-- <a href="http://127.0.0.1:5500/pman.html">Pacman game</a>
-
-
+- <a href="https://renardlomax.github.io/Pacmen-Exercise">Pacman game</a>
 
 #
 
