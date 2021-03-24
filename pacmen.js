@@ -38,7 +38,7 @@ function makePac() {
   };
 }
 
-// let index = 1;
+let index = 1;
 
 function update() {
   // loop over pacmen array and move each one and move image in DOM
@@ -49,14 +49,14 @@ function update() {
 
     item.newimg.style.left = item.position.x;
     item.newimg.style.top = item.position.y;
-//     if (index < 1) {
-//       index += 1;
-//     } else {
-//       index = 0;
-//     }
-//     item.newimg.src = pacArray[0][index];
+    if (index < 1) {
+      index += 1;
+    } else {
+      index = 0;
+    }
+    item.newimg.src = pacArray[0][index];
   });
-  setTimeout(update, 20);
+  setTimeout(update, 57);
 }
 
 function checkCollisions(item) {
